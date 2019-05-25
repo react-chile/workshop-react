@@ -17,8 +17,9 @@ git clone https://github.com/react-chile/workshop-react.git
 
 ## Una vez que el proyecto base se encuentre en su equipo ingrese a la terminal y ejecute:
 
-`npm start`
+`yarn install`
+`yarn start`
 
 
-## Habra la carpeta clonada en Visual Studio Code
+## Habra la carpeta clonada en Visual Studio Code o en su editor favorito
 
