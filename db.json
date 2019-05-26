@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "name": "Juanín Juan Harry",
+      "user":"juanin",
+      "pass":"31minutos"
+    },
+    {
+      "id": "59761c233d8d0f92a6b0570d", 
+      "name": "Juan Carlos Bodoque",
+      "user":"bodoque",
+      "pass":"31minutos"
+    },
+    {
+      "id": "59761c23fcb6254b1a06dad5",
+      "name": "Patana Tufillo",
+      "user":"patana",
+      "pass":"31minutos"
+    }
+  ],
+  "clients": [
+    {
+      "id": "59761c23b30d97fb42ff",
+      "name": "Pepe Cortisona"
+    },
+    {
+      "id": "5933d8d0f92a6b0570d",
+      "name": "Yayita"
+    },
+    {
+      "id": "59761c23fcb6206dad5",
+      "name": "Don Chuma"
+    },
+    {
+      "id": "59761c23f4b1a06dad5",
+      "name": "Ungenio Gonzalez"
+    }
+  ],
+  "services": [
+    {
+      "id": "59761c23",
+      "name": "Nuevo Requerimiento"
+    },
+    {
+      "id": "59766b0570d",
+      "name": "Bugs"
+    },
+    {
+      "id": "b6254b1a06dad5",
+      "name": "Respaldo BD"
+    },
+    {
+      "id": "59761caws8",
+      "name": "Desarrollo Landing Page"
+    },
+    {
+      "id": "59761c77asd7",
+      "name": "Envío de email masivo"
+    },
+    {
+      "id": "597619tr12",
+      "name": "Soporte nivel 1"
+    },
+    {
+      "id": "59761c69",
+      "name": "Soporte nivel 2"
+    }
+  ],
+  "orders": [
+    {
+        "clientId":"5933d8d0f92a6b0570d",
+        "clientName":"Yayita",
+        "date":"20190503",
+        "servicesId":"b6254b1a06dad5",
+        "servicesName":"Respaldo BD",
+        "descrip":"Respaldar base de datos",
+        "usersId":"59761c23b30d971669fb42ff",
+        "usersName":"Juanín Juan Harry"
+    },
+    {
+        "clientId":"59761c23b30d97fb42ff",
+        "clientName":"Pepe Cortisona",
+        "date":"20190503",
+        "servicesId":"59766b0570d",
+        "servicesName":"Bugs",
+        "descrip":"El modulo de pagos proveedor no calcula el IVA",
+        "usersId":"59761c233d8d0f92a6b0570d",
+        "usersName":"Juan Carlos Bodoque"
+    },
+    {
+        "clientId":"59761c23b30d97fb42ff",
+        "clientName":"Pepe Cortisona",
+        "date":"20190503",
+        "servicesId":"b6254b1a06dad5",
+        "servicesName":"Respaldo BD",
+        "descrip":"No puuedo ingresar",
+        "usersId":"59761c23b30d971669fb42ff",
+        "usersName":"Juanín Juan Harry"
+    },
+    {
+        "clientId":"59761c23b30d97fb42ff",
+        "clientName":"Pepe Cortisona",
+        "date":"20190503",
+        "servicesId":"59766b0570d",
+        "servicesName":"Bugs",
+        "descrip":"Necesito un modulo que centralice los pagos a proveedores",
+        "usersId":"59761c23fcb6254b1a06dad5",
+        "usersName":"Patana Tufillo"
+    }
+  ]
+}

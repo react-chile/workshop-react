@@ -1,0 +1,48 @@
+
+
+#notfound {
+    position: relative;
+    height: 100vh;
+  }
+  
+  #notfound .notfound {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+  }
+  
+  @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+ 
+  .notfound {
+    max-width: 710px;
+    width: 100%;
+    text-align: center;
+    padding: 0px 15px;
+    line-height: 1.4;
+  }
+  
+  .notfound .notfound404 {
+    height: 200px;
+    line-height: 200px;
+  }
+  
+  .notfound .notfound404 h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 168px;
+    margin: 0px;
+    color: #ff508e;
+    text-transform: uppercase;
+  }
+  
+  .notfound h2 {
+    font-family: 'Open Sans', serif;
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #222;
+    margin: 0;
+  }
+  

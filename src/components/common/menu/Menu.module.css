@@ -1,0 +1,28 @@
+.menu {
+    margin-left: 1rem;
+  }
+  .menu a{
+    margin-left: 1rem;
+  }
+  .menu a .is-active {
+    background-color: transparent;
+    color: #276cda;
+    font-weight: 700;
+  }
+  .menu i{
+    margin-right: 0.6rem;
+  }
+
+  .navbarLine {
+    border-top: 4px solid #276cda;
+    margin-bottom: 1rem;
+  }
+
+  .curenttime{
+    margin-right:5rem;
+  }
+
+  .curenttime h1{
+    color: gray;
+    font-size: 1.2rem;
+  }
