@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
 @import url('https://unpkg.com/bulma@0.7.4/css/bulma.min.css');
+/* @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'); */
 @import url('https://unpkg.com/ionicons@4.5.5/dist/css/ionicons.min.css');
 
-.navbarLine {
-  border-top: 4px solid #276cda;
-  margin-bottom: 1rem;
-}
+
 
 .container{
   font-family: 'Open Sans', serif;
@@ -15,26 +13,11 @@
   background: #ECF0F3;
   height: 100vh;
 }
-.menu {
-  margin-left: 1rem;
-}
-.menu a{
-  margin-left: 1rem;
-}
-.menu a .is-active {
-  background-color: transparent;
-  color: #276cda;
-  font-weight: 700;
-}
-.menu i{
-  margin-right: 0.6rem;
-}
 
 
 
-.cuadroBienvenida{
-  margin-bottom: 1rem;
-}
+
+
 /* 
 .menu a {
   color: #0F1D38;
